@@ -25,7 +25,7 @@ If you need to use this dataset, please contact the author of VeRi.
 The following description assumes you have downloaded the VeRi dataset to ./VeRi. The following command starts training using the cosine-softmax classifier described in this paper(https://elib.dlr.de/116408/):
 
 ```markdown
-python train_market1501.py \
+python train_veri.py \
     --dataset_dir=./VeRi/ \
     --loss_mode=cosine-softmax \
     --log_dir=./output/veri/ \
