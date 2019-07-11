@@ -1,4 +1,4 @@
-# Vehicle Re-identification on VeRi dataset
+# Vehicle_Re-identification_on_VeRi_dataset
 ## Modification of cosine_metric_learning from https://github.com/nwojke/cosine_metric_learning
 
 ## Introduction
